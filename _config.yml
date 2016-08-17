@@ -1,0 +1,28 @@
+name: tapintu
+favicon: null
+layout_spectrum: 0.6688544945791364
+typography_spectrum: 0.5295937128830701
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6338800697121769
+  lightness: 0.738076239824295
+  saturation: 0.5337037888821214
+  rhythmicContrast: 0.6591181070543826
+purpose: []
