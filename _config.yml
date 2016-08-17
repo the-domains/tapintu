@@ -1,6 +1,6 @@
-name: tapintu
+name: Tapintu
 favicon: null
-layout_spectrum: 0.6688544945791364
+layout_spectrum: 0.95583
 typography_spectrum: 0.5295937128830701
 title: Tapintu
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#d2d097'
+    - '#455f82'
+    - '#9fada0'
+    - '#677c98'
   brandStrength: 0.6338800697121769
   lightness: 0.738076239824295
   saturation: 0.5337037888821214
