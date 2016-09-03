@@ -1,20 +1,4 @@
-name: Tapintu
-favicon: null
-layout_spectrum: 0.95583
 typography_spectrum: 0.13573
-title: Tapintu
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.738076239824295
   saturation: 0.5337037888821214
   rhythmicContrast: 0.6591181070543826
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.95583
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Tapintu
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Tapintu
+description: Insight Facilitation
 purpose: []
