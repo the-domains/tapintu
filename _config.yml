@@ -1,4 +1,3 @@
-layout_spectrum: 0.001918857917189598
 typography_spectrum: 0.6067082781810313
 color:
   brandColors:
@@ -15,16 +14,20 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.001918857917189598
 analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f4ccd0f-5dc7-444b-b947-9937396ae0e3.jpg
 name: Tapintu
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3cf7b9e5-9be4-4c9d-8b07-5998ffaac3fe.png
 title: Tapintu
 description: Insight Facilitation
 purpose: []
